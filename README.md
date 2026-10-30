@@ -16,15 +16,15 @@
 
 I'm a Software Engineer with hands-on experience in software development, telecom technologies, backend development, and Generative AI.
 
-I completed a Software Engineer Trainee apprenticeship at **Cisco**, where I worked on Golang development in the 4G/5G Core domain, particularly around Session Management Function (SMF), N1/N2 message decoding, and subscriber monitoring.
+I completed a Software Engineer Trainee apprenticeship at **Cisco**, where I worked on Golang development in the 4G/5G Core domain, particularly around Session Management Function (SMF), 5G Core Architecture, and telecom network technologies aligned with 3GPP standards.
 
 Beyond my professional experience, I enjoy building applications, exploring emerging technologies, and strengthening my development skills through practical projects.
 
-- **Currently working on:** Personal software development projects and exploring backend engineering and Generative AI.
+- **Currently working on:** Software development projects, backend engineering, and practical Generative AI applications.
 - **Looking to collaborate on:** Open-source projects, Golang applications, backend development, and AI-driven solutions.
-- **Interested in:** Scalable software, system design, telecom technologies, and intelligent applications.
-- **Currently learning:** Advanced Golang, backend engineering, and practical Generative AI applications.
-- **Ask me about:** Golang, Python, SMF, 4G/5G Core Networks, N1/N2 decoding, and Generative AI.
+- **Interested in:** 5G Core Architecture, 3GPP standards, scalable software systems, and Generative AI.
+- **Currently learning:** Advanced Golang, backend engineering, and Generative AI.
+- **Ask me about:** Golang, Python, 4G/5G Core Networks, SMF, 5G Architecture, 3GPP, and Generative AI.
 
 ## Professional Experience
 
@@ -34,10 +34,10 @@ Beyond my professional experience, I enjoy building applications, exploring emer
 *October 2025 – October 2026*
 
 - Contributed to Golang development within the 4G/5G Core network domain.
-- Worked on SMF-related development and N1/N2 message decoding and logging.
-- Gained hands-on experience with NAS and NGAP message handling and subscriber monitoring.
-- Worked with network protocols, service-based interfaces, and core network components.
-- Used engineering tools including Git, Jenkins, Kubernetes, and Linux.
+- Worked on Session Management Function (SMF) development and telecom software components.
+- Gained hands-on experience with 5G Core Architecture, network protocols, and 3GPP standards.
+- Developed an understanding of communication between core network functions and service-based interfaces.
+- Worked with engineering tools and technologies including Git, Jenkins, Kubernetes, and Linux.
 
 ## Tech Stack
 
@@ -48,54 +48,61 @@ Beyond my professional experience, I enjoy building applications, exploring emer
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=A8B9CC)
 ![C++](https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Web & Backend Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![REST API](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0D1117?style=for-the-badge&logo=fastapi&logoColor=009688)
 
 ### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0D1117?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 
-### Areas of Interest
+### Domains & Technologies
 
-`Golang` · `Backend Development` · `4G/5G Core Networks` · `SMF` · `NAS` · `NGAP` · `Generative AI` · `RAG`
+`4G/5G Core Networks` · `5G Core Architecture` · `3GPP Standards` · `SMF` · `Generative AI` · `RAG` · `Backend Development`
 
 ## Featured Projects
 
 ### 1. SHL GenAI Assessment Recommendation Tool
 
-A Generative AI-powered assessment recommendation application that uses Retrieval-Augmented Generation (RAG) to identify relevant SHL assessments based on user requirements.
+A Generative AI-powered assessment recommendation application that uses Retrieval-Augmented Generation (RAG) to recommend relevant SHL assessments based on user requirements.
 
-**Technologies:** Python, Streamlit, RAG, Generative AI
+**Technologies:** Python · Streamlit · RAG · Generative AI
 
 [View Repository](https://github.com/Iris3014/SHL-GenAI-Assessment-Recommendation-Tool)
 
 ### 2. Car Game Using Python
 
-A Python-based car game developed to explore programming fundamentals, game mechanics, and interactive application development.
+A Python-based game developed to explore programming fundamentals, game mechanics, and interactive application development.
 
-**Technologies:** Python, Pygame
+**Technologies:** Python · Pygame
 
 [View Repository](https://github.com/Iris3014/car-game-using-python)
 
 ### 3. eHealthcare Application
 
 A healthcare application developed as part of my full-stack development projects, exploring web application development and database integration.
+
+## Currently Exploring
+
+- Advanced Golang and backend development.
+- Practical Generative AI and RAG-based applications.
+- 5G Core Architecture and 3GPP technologies.
+- Software architecture and scalable application development.
+- Open-source development and collaboration.
 
 ## GitHub Statistics
 
